@@ -1,0 +1,7 @@
+1.display all even no from 0 to 100 using loop
+
+2.dispaly fibonacci series till 100 fibonacci series:0 1 1 2 3 5 8 13 21...
+
+3.Accept a four digit value from user and display it in reverse order
+
+4.Accept a four digit value from user and display sum of its digits
